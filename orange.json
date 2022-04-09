@@ -1,15 +1,17 @@
+
 {
     "manifest": {
         "author": "bluebally#9504",
         "version": "1.0.0",
-        "name": "orange"
+        "name": "orange",
+        "updater": "https:\/\/raw.githubusercontent.com\/bluebally67\/orange-theme-for-aliucord\/main\/orange.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/962160846048460813\/962163201494102066\/Untitled2_20220408213001.png",
-        "blur_radius": 19
+        "blur_radius": 19,
+        "url": "https:\/\/media.discordapp.net\/attachments\/962183199839092760\/962332575756599296\/images.png"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/962160846048460813\/962164725578342420\/Pacifico-Regular.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/962183199839092760\/962333021099413565\/PlayfairDisplay-Regular.otf"
     },
     "simple_colors": {
         "accent": -6007766,
@@ -22,3 +24,24 @@
     "drawable_tints": {},
     "raws": {}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+    }
+  
+
